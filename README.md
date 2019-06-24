@@ -1,1 +1,1 @@
-# Stock-market-analysis-using-NLP
+## Project on Stock Market Analysis Using NLP
